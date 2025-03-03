@@ -44,7 +44,7 @@ pip-log.txt  # Installer logs
 
 # SVN
 .svn
-*.keras
+saved_model/*.keras
 
 
 !PLACEHOLDER
