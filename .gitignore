@@ -44,7 +44,6 @@ pip-log.txt  # Installer logs
 
 # SVN
 .svn
-saved_model/*.keras
-
+alexnet-4char-with-upper-letters.keras
 
 !PLACEHOLDER
