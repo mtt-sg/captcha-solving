@@ -44,6 +44,5 @@ pip-log.txt  # Installer logs
 
 # SVN
 .svn
-*.keras
 
 !PLACEHOLDER
